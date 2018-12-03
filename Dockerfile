@@ -1,4 +1,4 @@
-FROM ubuntu:haoimageV2
+FROM ubuntu
 MAINTAINER spmhyj
 CMD       /bin/bash
 RUN       mkdir test
